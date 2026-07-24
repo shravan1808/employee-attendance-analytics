@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,Date,CheckIn,CheckOut
+101,John,IT,2026-07-24,09:05,18:10
+102,Alice,HR,2026-07-24,08:55,17:45
+103,David,Finance,2026-07-24,09:30,18:40
+104,Emma,Marketing,2026-07-24,08:50,17:55
+105,Chris,IT,2026-07-24,09:15,18:05
